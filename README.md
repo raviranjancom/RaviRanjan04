@@ -1,6 +1,6 @@
-# Hello, I'm Rajeev Ranjan
+# Hello, I'm Ravi Ranjan
 
-<img src="https://github.com/rajeevranjancom/rajeevranjancom/blob/main/11111.png" width="100%" >
+<img src="https://github.com/raviranjancom/RaviRanjan04" width="100%" >
 
 - 👋 Hi, I’m Ravi Ranjan
 - 👀 I’m interested in Prgramming
